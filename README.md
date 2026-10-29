@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # student_dropout_risk
 #project description
+<<<<<<< HEAD
 =======
 ## Research Question
 Can classification algorithms predict student dropout risk from available student characteristics?
@@ -24,3 +25,9 @@ Proposal and repository setup.
 ## Disclaimer
 Predictions are experimental decision-support estimates, not definitive judgments about individual students. 
 >>>>>>> main
+=======
+(Get-Content README.md -Raw).Replace(
+    "A machine learning classification project to investigate student dropout risk using public student data.",
+    "A student retention classification study using public academic data."
+)
+>>>>>>> ba6b28e3329f38aa5089b0f3196664c0313ad0c2
